@@ -6,5 +6,6 @@ this page is for **dj class** _(data journalism)_
 [hungry?](https://crouton.net/) 
 _have a crouton_
 ## a little more about me:
-i'm a journalism major and track runner at lehigh. when i'm not running miles with my teammates, i'm perusing linkedin for fun gigs. i'm interested in storytelling, branding, sports psychology, and mental health. want to connect? _[you can find me here!]_ (https://www.linkedin.com/in/kara-bonner/) 
+i'm a journalism major and track runner at lehigh. when i'm not running miles with my teammates, i'm perusing linkedin for fun gigs. i'm interested in storytelling, branding, sports psychology, and mental health. want to connect? 
+[you can find me here!](https://www.linkedin.com/in/kara-bonner/) 
 cheers!
