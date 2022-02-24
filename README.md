@@ -10,6 +10,7 @@ i'm a journalism major and track runner at lehigh. when i'm not running miles wi
 [you can find me here!](https://www.linkedin.com/in/kara-bonner/) 
 cheers!
 
-dj class week 5 day 2: using canva to illustrate lehigh undergraduate enrollment 
+# dj class week 5 day 2: 
+## using canva to illustrate lehigh undergraduate enrollment 
 ![canva](https://raw.githubusercontent.com/karabonn/karabonn.github.io/main/undergraduate%20enrollment.png)
 [source](https://oirsa.lehigh.edu/university-profile) 
