@@ -14,3 +14,7 @@ cheers!
 ## using canva to illustrate lehigh undergraduate enrollment 
 ![canva](https://raw.githubusercontent.com/karabonn/karabonn.github.io/main/undergraduate%20enrollment.png)
 [source](https://oirsa.lehigh.edu/university-profile) 
+
+
+# dj class week 5 day 2: individual assignment
+##lehigh undergraduate acceptance rates 
