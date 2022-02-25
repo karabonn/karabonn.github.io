@@ -18,3 +18,5 @@ cheers!
 
 # dj class week 5 day 2: individual assignment
 ##lehigh undergraduate acceptance rates 
+![individassignment](https://raw.githubusercontent.com/karabonn/karabonn.github.io/main/LEHIGH%20UNIVERSITY%20UNDERGRADUATE%20ACCEPTANCE%20RATES%20FALL%202017-%20FALL%202021.png) 
+[source](https://oirsa.lehigh.edu/incoming-class-summaries)
