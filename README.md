@@ -17,6 +17,10 @@ cheers!
 
 
 # dj class week 5 day 2: individual assignment
-##lehigh undergraduate acceptance rates 
+## lehigh undergraduate acceptance rates 
 ![individassignment](https://raw.githubusercontent.com/karabonn/karabonn.github.io/main/LEHIGH%20UNIVERSITY%20UNDERGRADUATE%20ACCEPTANCE%20RATES%20FALL%202017-%20FALL%202021.png) 
 [source](https://oirsa.lehigh.edu/incoming-class-summaries)
+background information: lehigh university has struggled with its acceptance rate and slipping ranking for years. in today's project, i was interested in learning more about the breakdown of the acceptance rates within each year. 
+methods: lehigh univeristy data 
+key findings: acceptance rates for undergraduates at lehigh have been increasing from 2016 up until 2020. In 2021, the acceptance rate falls slighty, down to 46%. 
+implications: context of the data in this situation is important to note. lehigh has been expanding their student population with sights on becoming a larger-medium sized college while opening a brand new college in 2020. the launch of the health college plays a large part in the increase in acceptance rates. within the health college itself, the most recent acceptance rate in 2021 was 75% as per the lehigh data source noted above. 
