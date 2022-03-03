@@ -24,3 +24,7 @@ background information: lehigh university has struggled with its acceptance rate
 methods: lehigh univeristy data 
 key findings: acceptance rates for undergraduates at lehigh have been increasing from 2016 up until 2020. In 2021, the acceptance rate falls slighty, down to 46%. 
 implications: context of the data in this situation is important to note. lehigh has been expanding their student population with sights on becoming a larger-medium sized college while opening a brand new college in 2020. the launch of the health college plays a large part in the increase in acceptance rates. within the health college itself, the most recent acceptance rate in 2021 was 75% as per the lehigh data source noted above. 
+
+
+# dj class week 6 day 2 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1EwaUMUVz7FHiovW_anNICCFD189xxaFmrB7TKS7LwUA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
