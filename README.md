@@ -33,3 +33,4 @@ implications: context of the data in this situation is important to note. lehigh
 # dj class week 6 individual assignment timeline: 
 this timeline follows american runner emma coburn on her olympic journey through the distance running steeplechase event. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1BZnEQBcXw3ViYSk1MKrqP_V42yZkCju7wDK_jJq3Bdc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
