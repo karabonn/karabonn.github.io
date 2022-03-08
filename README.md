@@ -27,6 +27,7 @@ implications: context of the data in this situation is important to note. lehigh
 
 
 # dj class week 6 day 2 
+this timeline was an in-class practice run at using js to create a timeline. the below information describes the history of le-laf
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1EwaUMUVz7FHiovW_anNICCFD189xxaFmrB7TKS7LwUA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
