@@ -36,4 +36,4 @@ this timeline follows american runner emma coburn on her olympic journey through
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1BZnEQBcXw3ViYSk1MKrqP_V42yZkCju7wDK_jJq3Bdc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # dj class week 7 day 2 demo practice chart 
-![demochart](https://github.com/karabonn/karabonn.github.io/blob/main/three_countries_with_the_largest_population_China_India_U.S._chartbuilder.png)
+![demochart](https://raw.githubusercontent.com/karabonn/karabonn.github.io/24e69313b83938c73e70f497868d4b5a640aaeea/Percent_of_Undergraduate_Enrollment_at_Lehigh_University_Percent_of_Undergraduate_Enrollment_chartbuilder.svg)
