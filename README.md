@@ -40,5 +40,7 @@ this timeline follows american runner emma coburn on her olympic journey through
 
 
 # dj class week 7 day 2 weekend assignemnt 
-in this bar chart, i used chartbuilder to visualize the percentage breakdown of residence locations of fall 2021 lehigh undergraduate students. the source of this data is the fall 2021 lehigh profile. 
+in this bar chart, i used chartbuilder to visualize the percentage breakdown of residence locations of fall 2021 lehigh undergraduate students. the source of this data is the fall 2021 lehigh profile. residence halls and off campus living appear to be the most popular, with frat and sorority locations coming up smaller than anticipated, hovering around 5%. 
+
+
 ![residency](https://raw.githubusercontent.com/karabonn/karabonn.github.io/0b9ce6c50958c86bace7725c292c9984fce2e0e1/Lehigh_Fall_2021_Residency_Breakdown_Report_Percentage_chartbuilder.svg) 
