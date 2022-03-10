@@ -37,3 +37,8 @@ this timeline follows american runner emma coburn on her olympic journey through
 
 # dj class week 7 day 2 demo practice chart 
 ![demochart](https://raw.githubusercontent.com/karabonn/karabonn.github.io/24e69313b83938c73e70f497868d4b5a640aaeea/Percent_of_Undergraduate_Enrollment_at_Lehigh_University_Percent_of_Undergraduate_Enrollment_chartbuilder.svg)
+
+
+# dj class week 7 day 2 weekend assignemnt 
+in this bar chart, i used chartbuilder to visualize the percentage breakdown of residence locations of fall 2021 lehigh undergraduate students. the source of this data is the fall 2021 lehigh profile. 
+![residency](https://raw.githubusercontent.com/karabonn/karabonn.github.io/0b9ce6c50958c86bace7725c292c9984fce2e0e1/Lehigh_Fall_2021_Residency_Breakdown_Report_Percentage_chartbuilder.svg) 
