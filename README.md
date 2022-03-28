@@ -51,3 +51,10 @@ in this line graph, i used chartbuilder to depict the percentage of undergraduat
 
 
 ![undergrad](https://raw.githubusercontent.com/karabonn/karabonn.github.io/5808c1649c03f83cb0b880e0ae747d9ff28e7989/%25_of_Undergraduate_Students_Enrolled_by_College_arts_and_sciences_business_engineering_chartbuilder.svg)
+
+
+# dj class week 9 day 2 weekend assignemnt: 
+in this weekend's individual assignment, i sought out to investiagte lehigh's ever-increasing tuition costs, along with the room and board costs. i have been chatting with my friends recently about the newest, latest-and-greatest tuition spike and this motivated me to look at the last few years of available data. 
+i used chartbuilder here
+![tuition](https://raw.githubusercontent.com/karabonn/karabonn.github.io/01153d19be813f798fa3d08917f6670ad4cd6a82/Tuition_and_Room_and_Board_costs_for_Undergraduate_Lehigh_Students_tuition_room_and_board_chartbuilder.svg) 
+
