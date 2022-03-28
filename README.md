@@ -44,3 +44,10 @@ in this bar chart, i used chartbuilder to visualize the percentage breakdown of 
 
 
 ![residency](https://raw.githubusercontent.com/karabonn/karabonn.github.io/0b9ce6c50958c86bace7725c292c9984fce2e0e1/Lehigh_Fall_2021_Residency_Breakdown_Report_Percentage_chartbuilder.svg) 
+
+
+# dj class week 9 day 2 in class assignment: 
+in this line graph, i used chartbuilder to depict the percentage of undergraduate students enrolled in lehigh's colleges over the last year. 
+
+
+![undergrad](https://raw.githubusercontent.com/karabonn/karabonn.github.io/5808c1649c03f83cb0b880e0ae747d9ff28e7989/%25_of_Undergraduate_Students_Enrolled_by_College_arts_and_sciences_business_engineering_chartbuilder.svg)
