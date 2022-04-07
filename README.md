@@ -61,4 +61,4 @@ i used chartbuilder here
 
 # dj week 11 day 2 in class project: 
 today in class we created a map using google my map. below is a map of the top 20 cycling cities in the world according to a 2018 wired article. 
-(<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DHUbJdHLYpSc58IGD1u-4Rn0IpegbVBn&ehbc=2E312F" width="640" height="480"></iframe>)
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DHUbJdHLYpSc58IGD1u-4Rn0IpegbVBn&ehbc=2E312F" width="640" height="480"></iframe>
