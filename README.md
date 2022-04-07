@@ -62,3 +62,7 @@ i used chartbuilder here
 # dj week 11 day 2 in class project: 
 today in class we created a map using google my map. below is a map of the top 20 cycling cities in the world according to a 2018 wired article. 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DHUbJdHLYpSc58IGD1u-4Rn0IpegbVBn&ehbc=2E312F" width="640" height="480"></iframe>
+
+# dj week 11 day 2 weekend project: 
+for this weekend's project i was sucked in by my sweet tooth to research the top cities in the world with the best ranked desserts. this information if from purewow.com and is a visualization of the rankings, photos and descriptions from this article. the source article is linked here: https://www.purewow.com/travel/best-dessert-cities-in-the-world, it was written by Hannah Loewentheil in 2016. 
+<iframe src="https://www.google.com/maps/d/embed?mid=1G4e_CUNAY-41KoIxD6eP68bYjJbeb0IX&ehbc=2E312F" width="640" height="480"></iframe>
