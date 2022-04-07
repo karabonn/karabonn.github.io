@@ -58,3 +58,7 @@ in this weekend's individual assignment, i sought out to investiagte lehigh's ev
 i used chartbuilder here
 ![tuition](https://raw.githubusercontent.com/karabonn/karabonn.github.io/01153d19be813f798fa3d08917f6670ad4cd6a82/Tuition_and_Room_and_Board_costs_for_Undergraduate_Lehigh_Students_tuition_room_and_board_chartbuilder.svg) 
 
+
+# dj week 11 day 2 in class project: 
+today in class we created a map using google my map. below is a map of the top 20 cycling cities in the world according to a 2018 wired article. 
+(<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1DHUbJdHLYpSc58IGD1u-4Rn0IpegbVBn&ehbc=2E312F" width="640" height="480"></iframe>)
