@@ -79,8 +79,11 @@ this weekend project had similar technical difficulties, leaving the finished pr
 # dj week 13 in-class project: 
 in class this week we used tableau to create maps and pages of maps to form interactive data stories. below are jpegs of my interactive map. 
 the first is of higher education data in 2013 for public institutions. 
+![public](https://raw.githubusercontent.com/karabonn/karabonn.github.io/main/dj5.jpeg)
+
 
 the second is of higher education data in 2013 for private institutions.
+![private](https://raw.githubusercontent.com/karabonn/karabonn.github.io/main/dj3.jpeg)
 
-
-the thihrd if of higher education data in 2013 for the number of international students in historically black universtities. 
+the third is of higher education data in 2013 for the number of international students in historically black universtities. 
+![demo](https://raw.githubusercontent.com/karabonn/karabonn.github.io/main/dj4.jpeg) 
