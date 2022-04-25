@@ -72,4 +72,7 @@ this project is slightly delayed because i came down with a case of covid, but i
 # in-class project: Self-Identity and Party Location Preference at Lehigh: 
 ![djclass1](https://raw.githubusercontent.com/karabonn/karabonn.github.io/main/djclass1.jpeg)
 
+# weekend project: Pregame Likelihood by Gender & Party Location Preference by Age on the same dashboard 
+this weekend project had similar technical difficulties, leaving the finished product below as a jpeg instead of a public tableau board. in the first chart (yellow) comparing gender and likelihood to pregame prior to a party, both females and males were more likely to pregame for on-campus parties than off-campus ones. this leads me to believe that the on-campus responses are from underage students. on the second chart, (green), I compared party location preference with grade in school. from this comparison i found that sophomores were the leading age groups for both frats and off campus parties. as the grades progress in age to junior, senior and fifth-year, there are less replies. i believe this may be because as students get closer to the legal age, they have the ability to move to bars for their preferred location. please see the charts below for visuals. 
+![djclass2](https://raw.githubusercontent.com/karabonn/karabonn.github.io/main/djclass2.jpeg)
 
