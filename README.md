@@ -66,3 +66,10 @@ today in class we created a map using google my map. below is a map of the top 2
 # dj week 11 day 2 weekend project: 
 for this weekend's project i was sucked in by my sweet tooth to research the top cities in the world with the best ranked desserts. this information if from purewow.com and is a visualization of the rankings, photos and descriptions from this article. the source article is linked here: https://www.purewow.com/travel/best-dessert-cities-in-the-world, it was written by Hannah Loewentheil in 2016. 
 <iframe src="https://www.google.com/maps/d/embed?mid=1G4e_CUNAY-41KoIxD6eP68bYjJbeb0IX&ehbc=2E312F" width="640" height="480"></iframe>
+
+# dj week 12 day 2 in-class and weekend project 
+this project is slightly delayed because i came down with a case of covid, but i just got caught up to speed on using tableau. for this in class project (seeen in the pink photo) i used lehigh party data to evaluate self-indentified genderas it relates to party location preferences. please see the photo below as the computer that hosts tableau was unable to hold a connection to the internet, or else this would be linked directly from a public tableau datasheet. in the chart, you can see that females prefer off campus houses for parties whereas males prefer frat houses. looking at this data, i have suspicions that the students polled may only be in greek life and not involved in athletics. 
+# in-class project: Self-Identity and Party Location Preference at Lehigh: 
+![djclass1](https://raw.githubusercontent.com/karabonn/karabonn.github.io/main/djclass1.jpeg)
+
+
