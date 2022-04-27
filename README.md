@@ -98,6 +98,7 @@ for this project, i used us census data from 1998-2020 to look at the breakdown 
 
 
 # 1998-2020 US Census: Kids age 6-17 in lessons by gender: 
+![lessons](https://raw.githubusercontent.com/karabonn/karabonn.github.io/main/lessonsgirlvsboy.jpeg)
 
 
 # 1998-2020 US Census: Kids age 6-17 in sports by gender: 
