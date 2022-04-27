@@ -95,6 +95,7 @@ for this project, i used us census data from 1998-2020 to look at the breakdown 
 
 
 # 1998-2020 US Census: Kids age 6-17 in clubs by gender: 
+![clubs](https://raw.githubusercontent.com/karabonn/karabonn.github.io/main/clubs_girlvsboy.jpeg)
 
 
 # 1998-2020 US Census: Kids age 6-17 in lessons by gender: 
