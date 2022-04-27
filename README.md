@@ -87,3 +87,17 @@ the second is of higher education data in 2013 for private institutions: see bel
 
 the third is of higher education data in 2013 for the number of international students in historically black universtities: see below: 
 ![demo](https://raw.githubusercontent.com/karabonn/karabonn.github.io/main/dj4.jpeg) 
+
+
+
+# dj week 13 weekend project: 
+for this project, i used us census data from 1998-2020 to look at the breakdown of activities children participate in after school. the breakdown categories were, sports, lessons or clubs and the gender domains were male and female. the data cource is linked here: https://www.census.gov/data/tables/time-series/demo/children/childs-day.html
+
+
+# 1998-2020 US Census: Kids age 6-17 in clubs by gender: 
+
+
+# 1998-2020 US Census: Kids age 6-17 in lessons by gender: 
+
+
+# 1998-2020 US Census: Kids age 6-17 in sports by gender: 
