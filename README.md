@@ -105,7 +105,6 @@ for this project, i used us census data from 1998-2020 to look at the breakdown 
 # 1998-2020 US Census: Kids age 6-17 in sports by gender: 
 ![sports](https://raw.githubusercontent.com/karabonn/karabonn.github.io/main/sportsgirlsvsboys.jpeg)
 
-# 1998-2020 US Census: Kids age 6-17 comparing club participation for both genders: 
 
 # 1998-2020 US Census: Kids age 6-17 comparing clubs vs lessons for both genders: 
 ![clubvslessons](https://raw.githubusercontent.com/karabonn/karabonn.github.io/main/clubsvslessonsboth.jpeg)
@@ -113,4 +112,6 @@ for this project, i used us census data from 1998-2020 to look at the breakdown 
 # 1998-2020 US Census: Kids age 6-17 comparing clubs vs sports for both genders: 
 ![clubsvssports](https://raw.githubusercontent.com/karabonn/karabonn.github.io/main/clubsvssportsboth.jpeg)
 
-# # 1998-2020 US Census: Kids age 6-17 comparing clubs vs lessons for females: 
+# 1998-2020 US Census: Kids age 6-17 comparing clubs vs lessons for females: 
+![this](https://raw.githubusercontent.com/karabonn/karabonn.github.io/main/femalesclubsvslessons.jpeg)
+
