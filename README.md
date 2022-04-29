@@ -92,6 +92,10 @@ the third is of higher education data in 2013 for the number of international st
 
 # dj week 13 weekend project: 
 for this project, i used us census data from 1998-2020 to look at the breakdown of activities children participate in after school. the breakdown categories were, sports, lessons or clubs and the gender domains were male and female. the data cource is linked here: https://www.census.gov/data/tables/time-series/demo/children/childs-day.html
+I chose to use US Census Data for my project focusing on kids ages 6-17 in their extracurricular activity involvement rate. The involvement rate was split by two genders, male and female. I was interested in looking into this topic because I was curious to see how Title 9 has worked and influenced the participation of young girls in sport. 
+There are many interesting conclusions to read from the data. When looking at the Kids age 6-17 in clubs by gender chart, both genders have followed a similar trajectory of participation. When looking at lessons, males increase in the early 2000’s in their participation, while females dip. As for sports, there are similar participation numbers, with girls numbers raising slightly higher than males. Girls had a large dip in 2017 whereas boys had a dip in 2019. Further comparison can be seen below where I mapped the data on the same dashboard for the ease of the ee in comparison. 
+In conclusion, the participation trends were more similar than I anticipated them to be. In the future, I would be interested to go back further in time and see if the same gender trends remain true. 
+
 
 
 # 1998-2020 US Census: Kids age 6-17 in clubs by gender: 
